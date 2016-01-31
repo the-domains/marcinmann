@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: bo ja zawsze się wstydzę swoich zdjęć
-datePublished: '2016-01-31T04:58:52.737Z'
+datePublished: '2016-01-31T04:58:52.699Z'
 dateModified: '2016-01-31T04:58:37.691Z'
 title: nie musisz się wstydzić swoich zdjęć
 author: []
