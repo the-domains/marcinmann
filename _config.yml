@@ -1,7 +1,7 @@
 name: marcinmann
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.3495122888125479
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.7274633375927806
-  lightness: 0.024612812092527747
-  saturation: 0.9457185384817421
-  rhythmicContrast: 0.9515869708266109
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
