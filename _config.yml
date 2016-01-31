@@ -1,6 +1,6 @@
 name: marcinmann
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 1
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#090909'
+    - '#4a4a4a'
+    - '#7b7b7b'
+    - '#f3f3f3'
+    - '#a3a3a3'
   brandStrength: 0
   lightness: 0
   saturation: 0
