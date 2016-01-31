@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[marcinmann]]></title>
+        <description><![CDATA[marcinmann]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 31 Jan 2016 04:55:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[nie musisz się wstydzić swoich zdjęć]]></title>
+            <description><![CDATA[<article><h1>nie musisz się wstydzić swoich zdjęć</h1><p>no i już nie wiem co napisać, napiszę hello this is my portfolio</p></article>]]></description>
+            <link>undefinednie-musisz-sie-wstydzic-swoich-zdjec/index.html</link>
+            <guid isPermaLink="false">4efebd27-7a2b-4f4b-92ff-2fcd305c32c8</guid>
+            <pubDate>Sun, 31 Jan 2016 04:55:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
